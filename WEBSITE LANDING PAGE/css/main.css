@@ -1,0 +1,149 @@
+.nav{
+    height: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+.company_name{
+    font-size: xx-large;
+    margin-bottom: 30px;
+    float: left;
+}
+.logo{
+    float: left;
+    margin-right: 20px;
+}
+.top{
+    height:500px;
+    width: 100%;
+    margin-top: 250px;
+}
+.biggest_lower{
+    font-size: 25px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+.td_pic{
+    width:10%;
+    height:70px;
+    float: left;
+}
+.td_heading{
+    width:85%;
+    height: 70px;
+    float: right;
+    font-size: xx-large;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.td_heading1{
+    width:100%;
+    height: 70px;
+    float: right;
+    font-size: xx-large;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.card{
+    width: 60%;
+}
+.normal-heading{
+        width:85%;
+        height: 70px;
+        font-size: xx-large;
+        font-weight: bold;
+}
+.normal-text{
+    font-size: 21px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+.td_content{
+    width:100%;
+    height: 230px;
+    font-size: 21px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+.search{
+    background-color: blue;
+}
+.heading{
+    font-size: x-large;
+    float: right;
+    margin-right: 30px;
+    margin-top: 0px;
+}
+.cardtext{
+    float: right;
+}
+
+body{
+    margin:0px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+table{
+    width:92%;
+    margin-left: 70px;
+}
+tr{
+    width: 100%;
+}
+td{
+    width:50%;
+}
+.footar{
+    height: 200px;
+    width: 100%;
+    color: white;
+    font-size: 16px;
+    background-color: black;
+}
+.footar1{
+    height: 100%;
+    width: 25%;
+    float: left;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.footar2{
+    height: 100%;
+    width: 25%;
+    float: left;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.footar3{
+    height: 100%;
+    width: 25%;
+    float: left;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.footar4{
+    height: 100%;
+    width: 25%;
+    float: left;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.dolar{
+    width: 100%;
+    height:400px;
+}
+.cardtext{
+    width: 100%;
+    height:400px;
+}
+.table1{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+}
+.tr1{
+    width: 100%;
+}
+.td1{
+    width: 50%;
+}
+.color{
+    background-color: rgb(248, 248, 97);
+}
